@@ -1,28 +1,21 @@
-# Hi, I'm Harshi Subodh Taigor 👋
-**IPM Candidate at IIM Indore ('29/'31) | Operations & Data Analytics**
+# Harshi Subodh Taigor
+
+IPM Candidate at **IIM Indore** ('26–'29/31) focusing on business analytics, operations, and quantitative problem-solving. Currently a Junior Core Member (JC1) at **InfraComm**, managing campus facility operations and administrative logistics for 2,000+ residents.
 
 ---
 
-### 📌 About Me
-- 🎓 **Academic:** Integrated Programme in Management (IPM) Candidate at **IIM Indore**.
-- ⚙️ **Leadership:** Junior Core Member (JC1) at **InfraComm**, overseeing campus facility operations and administrative logistics.
-- 📊 **Interests:** Data Analytics, Operations Strategy, Financial Modeling, and Problem Solving.
-- 🎯 **Goal:** Applying data-driven insights to solve complex operational and strategic business challenges.
+### 🛠 Tech Stack & Tools
+* **Languages & Analytics:** Python (Pandas, NumPy, Matplotlib), SQL (Basic), Advanced MS Excel
+* **Domain Focus:** Operations Strategy, Facility Logistics, Market Research, Microeconomics
 
 ---
 
-### 🛠️ Technical & Business Skills
-- **Data & Tools:** Python (Data Analysis), Advanced MS Excel, SQL (Basic)
-- **Business Domains:** Operations Management, Facility Logistics, Market Research, Microeconomics
-- **Execution:** Stakeholder Management, Vendor Coordination, Event Execution
+### 📌 Current Focus & Involvement
+* **Campus Operations:** Streamlining facility grievance workflows and event logistics across IIM Indore's 193-acre campus.
+* **Data Analytics:** Building practical Python projects focused on customer segmentation, market research scraping, and operational modeling.
 
 ---
 
-### 📂 Featured Projects
-* 📊 **Customer Segmentation Analysis** | Python, Pandas, Matplotlib  
-  *Exploratory data analysis project segmenting customer purchase data to identify high-value consumer groups.*
-
----
-
-📫 **Connect with me:**
-- [LinkedIn Profile](https://www.linkedin.com/in/harshi-subodh-taigor/)
+### 📫 Contact & Links
+* **LinkedIn:** [linkedin.com/in/harshi-subodh-taigor](https://www.linkedin.com/in/harshi-subodh-taigor/)
+* **Email:** [i26harshit@iimidr.ac.in]
