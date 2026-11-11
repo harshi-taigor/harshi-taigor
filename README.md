@@ -18,4 +18,4 @@ IPM Candidate at **IIM Indore** ('26–'29/31) focusing on business analytics, o
 
 ### 📫 Contact & Links
 * **LinkedIn:** [linkedin.com/in/harshi-subodh-taigor](https://www.linkedin.com/in/harshi-subodh-taigor/)
-* **Email:** [i26harshit@iimidr.ac.in]
+* **Email:** i26harshit@iimidr.ac.in
